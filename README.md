@@ -6,7 +6,7 @@ My name is Awang and im a second year student at [Nanggulan 1 Vocational High Sc
 - **Linux**, im use it everyday, and i can : 
   - Creating and configuring *SSH, DNS*, and *FTP* server.
   - Creating a localhost Web Server using [Nginx](https://www.nginx.com/).
-  - Installing a Linux distro and its environment, currently only in Virtual Machine like [Oracle Virtual Box](www.virtualbox.org/). The distro's are : 
+  - Installing a Linux distro and its environment, currently only in Virtual Machine like [Oracle Virtual Box](https://www.virtualbox.org/). The distro's are : 
      - ***Debian*** (Server & Desktop).
      - ***Ubuntu*** (Server & Desktop).
      - ***Arch*** (Server).
