@@ -1,4 +1,5 @@
 # Hello There!
+[[media/hello.png]]
 My name is Awang and im a second year student at [Nanggulan 1 Vocational High School](https://www.smkn1nanggulan.sch.id/) 👨‍💻.
 
 ## 1. Skill
