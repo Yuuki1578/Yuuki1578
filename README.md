@@ -1,5 +1,5 @@
 # Hello There!
-![Hello](./media/hello.png)
+![Hello](https://raw.githubusercontent.com/Yuuki1578/Yuuki1578/main/media/image/hello.png)
 My name is Awang and im a second year student at [Nanggulan 1 Vocational High School](https://www.smkn1nanggulan.sch.id/) 👨‍💻.
 
 ## 1. Skill
