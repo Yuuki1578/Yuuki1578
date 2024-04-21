@@ -4,9 +4,9 @@ My name is Awang and im a second year student at [Nanggulan 1 Vocational High Sc
 ## 1. Skill
 - **Basic Networking**, such a *Router Configuration*, *Access Point Setup*, and little knowledge about *TCP/IP*, *Socket*, etc.
 - **Linux**, im use it everyday, and i can : 
-  1. Creating and configuring *SSH, DNS*, and *FTP* server.
-  2. Creating a localhost Web Server using [Nginx](https://www.nginx.com/).
-  3. Installing a Linux distro and its environment, currently only in Virtual Machine like [Oracle Virtual Box](www.virtualbox.org/). The distro's are : 
+  - Creating and configuring *SSH, DNS*, and *FTP* server.
+  - Creating a localhost Web Server using [Nginx](https://www.nginx.com/).
+  - Installing a Linux distro and its environment, currently only in Virtual Machine like [Oracle Virtual Box](www.virtualbox.org/). The distro's are : 
      - ***Debian*** (Server & Desktop).
      - ***Ubuntu*** (Server & Desktop).
      - ***Arch*** (Server).
