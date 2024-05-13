@@ -17,5 +17,3 @@ My name is Awang and im a second year student at [Nanggulan 1 Vocational High Sc
      - [ ] Installing *Arch* with Desktop Environment like *KDE*, *Mate*, and *Gnome* or Window Manager like *Hyprland*.
      - [ ] Installing NixOS
      - [ ] Installing EndavourOS
-
-## 2. Programming 👨‍💻
